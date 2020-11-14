@@ -1,2 +1,3 @@
 # IE402_Labs
-Graphical LPP Solver, Simplex Table
+1. Graphical LPP Solver
+2. Simplex Table
